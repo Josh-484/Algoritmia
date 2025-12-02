@@ -30,4 +30,4 @@ FinAlgoritmo
 //Decidí poner este código en el repositorio porque es uno de los primeros que realicé y siento que es la base de algoritmos
 // más complejos que se presentarán en los siguientes archivos.
 ```
-![Ejecución](./capturas/capturaAlgoritmo01.png)
+![Ejecución](../capturas/capturaAlgoritmo01.png)
