@@ -23,4 +23,3 @@ Algoritmo sumar_n_pares
 FinAlgoritmo
   //Decidí poner este código en el repositorio ya que es de los primeros que realicé y siento que esta es la base de algoritmos más 
   //complejos que se presentarán en los siguientes archivos
-![Ejecución](CapturaAlgoritmo01.png)
