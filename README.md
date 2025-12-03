@@ -32,11 +32,11 @@ Cada uno contiene:
 # ⭐ 5 Algoritmos Nuevos (no vistos en clase)
 Los siguientes algoritmos fueron creados desde cero y no pertenecen a ejercicios, tareas o exámenes previos:
 
-1. Algoritmo 21 -
-2. Algoritmo 22 –  
-3. Algoritmo 23 –  
-4. Algoritmo 24 –  
-5. Algoritmo 25 –  
+1. Algoritmo 21 - Temperaturas seguras
+2. Algoritmo 22 –  Doble consecutivo
+3. Algoritmo 23 –  Contar islas
+4. Algoritmo 24 –  Espejo horizontal
+5. Algoritmo 25 –  Diagonales
 
 
 # 🧠 Reflexión Final
