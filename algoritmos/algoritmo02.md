@@ -22,7 +22,7 @@ Algoritmo sumar_fracciones_denominador_n
 		Rsuma= Rsuma+(1/i);
 	FinPara
 	//Escribimos el resultado;
-	Escribir "El resultado de la suma 1 + 1/2 + 1/3 + 1/4 ...+ 1/N es: ", Rsuma;
+	Escribir "El resultado de la suma 1 + 1/2 + 1/3 + 1/4 ...+ 1/", N " es: ", Rsuma;
 FinAlgoritmo
   //Seleccione este porque es uno de los algoritmos que tengo mejor explicados, y lo realice de una buena forma
 ```
