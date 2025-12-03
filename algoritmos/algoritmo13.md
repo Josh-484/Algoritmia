@@ -4,7 +4,7 @@
 Algoritmo dos_a_la_n
 	//algoritmo que calcula los valores exponenciales de 2 hasta el exponente n
 	//entrada n
-	//salida 2^1, 2^2, 2^3, ... 2^n
+	//salida 2^0, 2^1, 2^2, ... 2^n
 	//Caso de prueba: n=8
 	//1,2,4,8,16,32,64,120,256
 	Definir i, n como entero;
