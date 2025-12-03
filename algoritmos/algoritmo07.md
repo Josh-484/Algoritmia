@@ -29,7 +29,7 @@ Algoritmo calcular_factoriales_n_veces
 			fac<-fac*num;
 		FinPara
 		Escribir "El factorial es: ", fac;
-		fac<-0.0;
+		fac<-1;
 	FinPara
 FinAlgoritmo
   //Elegi este porque realmente fue un reto para mi el saber como calcular dicho factorial
