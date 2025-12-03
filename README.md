@@ -40,7 +40,6 @@ Los siguientes algoritmos fueron creados desde cero y no pertenecen a ejercicios
 
 
 # 🧠 Reflexión Final
-En este portafolio pude analizar mi avance durante el curso. A través de la resolución de algoritmos…
 
 En mi opinión tuve un buen desempeño en la asignatura, siempre traté de priorizar mi conocimiento y aprendizaje, antes que los resultados o el conocimiento
 y si bien esto me trajo en ciertas ocasiones complicaciones de más creo que las cosas que aprendí me servirán más adelante, considero que tuve un muy buen proceso de aprendizaje aunque 
