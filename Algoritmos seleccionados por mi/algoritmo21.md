@@ -10,7 +10,7 @@ Algoritmo temperaturasSeguras
 	//entrada N, temperaturas
 	//salida dentro, fuera
 	Definir N, i Como Entero;
-	Definir temp Como Real;
+	Definir temperaturas Como Real;
 	Escribir "Cuantas muestras deseas capturar?";
 	Leer N;
 	
