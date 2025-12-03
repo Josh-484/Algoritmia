@@ -1,7 +1,10 @@
 ## Código en PSeInt
 
 ```pseudocode
-Algoritmo encontrar_doble_consecutivo
+Algoritmo encontrardobleconsecutivo
+	//Algoritmo para encontrar el doble consecutivo de un valor en una secuencia
+	//entrada n, v
+	//salida "patron encontrado"
 	Definir N, i, v Como Entero;
 	Escribir "Cuantos numeros tendra el vector?";
 	Leer N;
@@ -22,7 +25,6 @@ Algoritmo encontrar_doble_consecutivo
 			Escribir "Patron encontrado: ", v[i], " y ", v[i+1];
 		FinSi
 	finpara
-	
 	si NO encontrado Entonces
 		Escribir "No se encontro ningun par consecutivo donde el segundo sea el doble del primero.";
 	FinSi
