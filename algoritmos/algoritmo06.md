@@ -37,7 +37,7 @@ Algoritmo ahorro_tenis
 			De Otro Modo:
 				Escribir "Número no valido favor de ingresar el correcto";
 		Fin Segun
-	Hasta Que ahorro=2100
+	Hasta Que ahorro>=2100
 	Escribir "Felicidades llegaste a tu meta, tu ahorro es: ", ahorro;
 FinAlgoritmo
   //Elegí este algoritmo porque fue la primera vez que recuerdo que utilicé un menú por mi cuenta
